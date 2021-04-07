@@ -76,7 +76,7 @@ include('sidebar.php');
 		          	</div>
 		          	<div class="form-group">
 		          		<div class="row">
-			            	<label class="col-md-4 text-right">Prix</label>
+			            	<label class="col-md-4 text-right">Prix</label>  dedeeeeeeeeee 
 			            	<div class="col-md-6">
 			            		<input type="text" name="department_contact_person[]" class="form-control department_contact_person" id="department_contact_person" required data-parsley-pattern="/^[a-zA-Z\s]+$/"  data-parsley-trigger="keyup" />
 			            	</div>
